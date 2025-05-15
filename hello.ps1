@@ -1,2 +1,2 @@
-#Okej nu kör vi första commiten
+#Okej nu kör vi tredje commiten
 Write-Host "Hej från $(whoami)"
