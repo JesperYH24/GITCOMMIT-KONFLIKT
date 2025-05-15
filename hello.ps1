@@ -1,1 +1,2 @@
-Write-Host = "Hello from $(whoami)"
+#Okej nu kör vi första commiten
+Write-Host "Hej från $(whoami)"
